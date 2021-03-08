@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpatulaProjectMain</string>
+    <string-array name="activity_level">
+        <item>숨쉬기 운동</item>
+        <item>주 1~3회 가벼운 운동</item>
+        <item>주 4~5회 가벼운 운동</item>
+        <item>주 3~4회 빡센 운동/매일 가벼운 운동</item>
+        <item>주 6~7회 빡센 운동</item>
+    </string-array>
+    <string-array name="body_type">
+        <item>외배엽형</item>
+        <item>중배엽형</item>
+        <item>내배엽형</item>
+    </string-array>
+</resources>
